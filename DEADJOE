@@ -1,0 +1,19 @@
+
+*** These modified files were found in JOE when it aborted on Wed Feb 22 16:30:32 2023
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+/home/dh_ynz7ir/gdsresources.com/.git/config
+
+*** File '/home/dh_ynz7ir/gdsresources.com/.git/config'
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
